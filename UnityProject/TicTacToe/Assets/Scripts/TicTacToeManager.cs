@@ -75,7 +75,6 @@ public class TicTacToeManager : MonoBehaviour
         // 落子方法
         if (isGameOver())
         {
-            Debug.Log("=======================");
             return;
         }
         

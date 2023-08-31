@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class OverPanel:BasePanel
 {
     private CanvasGroup canvasGroup;
-    private GameObject winnerText;
+    private GameObject winnerText; //处理胜利玩家信息
     private void Start()
     {
         if (canvasGroup == null)

@@ -1,0 +1,13 @@
+﻿{
+  "infoList":
+  [
+    {
+      "panelTypeString": "LoginPanel",
+      "path": "Prefabs/UI/LoginPanel"
+    },
+    {
+      "panelTypeString": "OverPanel",
+      "path": "Prefabs/UI/OverPanel"
+    }
+  ]
+}
